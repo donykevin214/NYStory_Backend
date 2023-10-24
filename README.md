@@ -1,4 +1,4 @@
-# Inkedfur V3 Backend
+# NYTimes Top Story Backend
 
 ## Run the project
 
